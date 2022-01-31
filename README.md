@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcarceco
 - 👀 I’m interested in Java, Python, R and Swift.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java&Python
 - 💞️ I’m looking to collaborate on Java and Python in topics related to business.
 - 📫 How to reach me ig: @xavicarceco
 
